@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PTkpg2NBRplh3NGvPQ304A5OP1Lfo1zf+pYAc/yjXgQahvf1jEt/YsG70iX6CzvR4kUnY9ZSKsouwJkfO5w1VA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Tomas\\Dokument\\Dropbox\\Studier\\.net\\Cloud\\DevOpsTest\\DevOpsTest\\DevOpsTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tomas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
